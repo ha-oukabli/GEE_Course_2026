@@ -26,22 +26,21 @@ mucho más que «aprender GEE».
 
 **00.** Diego García Díaz · [@Digdgeo](https://github.com/Digdgeo) · Que nadie salga de aquí sin una cuenta de GEE que entienda
 
-**01.** 
 **01.** Patricia Tena Romero. [@patriciatenaromero-eng!](https://github.com/patriciatenaromero-eng) Aprender todo lo que pueda
 
-**02.**
+**02.** 
 
 **03.**
 
 **04.**
 
-**05.**
+**05.** Hajar Oukabli. [@haoukabli](https://github.com/ha-oukabli). Aprender cosas nuevas y mejorar mis habilidades con GEE.
 
 **06.**
 
 **07.**
 
-**08.** Miguel Sevilla Callejo `@msevilla00` en redes, en [GitHub](https://github.com/msevilla00) y en [GitLab](https://gitlab.com/msevilla00) - Tenér mas soltura con GEE y aprovechar por ejemplo [Google Satellite Embedding](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL?hl=es-419#description)
+**08.**
 
 **09.**
 
